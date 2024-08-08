@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\source\\repos\\TikTacFinni\\TikTacFinni.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\Source\\Repos\\TicTacFinni\\TikTacFinni.csproj",
       "projectName": "TikTacFinni",
-      "projectPath": "C:\\Users\\chris\\source\\repos\\TikTacFinni\\TikTacFinni.csproj",
+      "projectPath": "C:\\Users\\chris\\Source\\Repos\\TicTacFinni\\TikTacFinni.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\source\\repos\\TikTacFinni\\obj\\",
+      "outputPath": "C:\\Users\\chris\\Source\\Repos\\TicTacFinni\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",

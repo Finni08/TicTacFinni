@@ -16,9 +16,20 @@ namespace TikTacFinni
     /// </summary>
     public partial class MainWindow : Window
     {
+        wndGame wndGame =new wndGame();
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Singelplayerbtn_Click(object sender, RoutedEventArgs e)
+        {
+            wndGame.Show();
+        }
+
+        private void Multiplayerbtn_Click(object sender, RoutedEventArgs e)
+        {
+            wndGame.Show();
         }
     }
 }

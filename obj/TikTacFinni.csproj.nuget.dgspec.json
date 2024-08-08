@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris\\source\\repos\\TikTacFinni\\TikTacFinni.csproj": {}
+    "C:\\Users\\chris\\source\\repos\\TicTacFinni\\TikTacFinni.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris\\source\\repos\\TikTacFinni\\TikTacFinni.csproj": {
+    "C:\\Users\\chris\\source\\repos\\TicTacFinni\\TikTacFinni.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\source\\repos\\TikTacFinni\\TikTacFinni.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\source\\repos\\TicTacFinni\\TikTacFinni.csproj",
         "projectName": "TikTacFinni",
-        "projectPath": "C:\\Users\\chris\\source\\repos\\TikTacFinni\\TikTacFinni.csproj",
+        "projectPath": "C:\\Users\\chris\\source\\repos\\TicTacFinni\\TikTacFinni.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\source\\repos\\TikTacFinni\\obj\\",
+        "outputPath": "C:\\Users\\chris\\source\\repos\\TicTacFinni\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",

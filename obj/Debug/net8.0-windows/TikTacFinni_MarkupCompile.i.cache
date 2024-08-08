@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\chris\source\repos\TikTacFinni\obj\Debug\net8.0-windows\
+C:\Users\chris\source\repos\TicTacFinni\obj\Debug\net8.0-windows\
 TikTacFinni
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\chris\source\repos\TikTacFinni\App.xaml
-11407045341
+C:\Users\chris\source\repos\TicTacFinni\App.xaml
+2642395692
 
-6-1260429191
+8509648717
 198-635017904
-MainWindow.xaml;
+MainWindow.xaml;wndGame.xaml;
 
-True
+False
 
