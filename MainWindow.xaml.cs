@@ -16,7 +16,7 @@ namespace TikTacFinni
     /// </summary>
     public partial class MainWindow : Window
     {
-        wndGame wndGame =new wndGame();
+        wndGame wndGame;
         public MainWindow()
         {
             InitializeComponent();
@@ -24,11 +24,14 @@ namespace TikTacFinni
 
         private void Singelplayerbtn_Click(object sender, RoutedEventArgs e)
         {
+            wndGame=new wndGame() {singelplayer=true};
             wndGame.Show();
+
         }
 
         private void Multiplayerbtn_Click(object sender, RoutedEventArgs e)
         {
+            wndGame = new wndGame() {singelplayer=false};
             wndGame.Show();
         }
     }

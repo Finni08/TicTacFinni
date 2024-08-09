@@ -9,6 +9,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Resources\Circle.png" />
+    <None Remove="Resources\Cross.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\Circle.png" />
+    <Resource Include="Resources\Cross.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Update="Properties\Resources.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
