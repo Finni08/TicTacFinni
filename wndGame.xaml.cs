@@ -44,7 +44,7 @@ namespace TikTacFinni
         public wndGame(MainWindow mainWindow)
         {
             InitializeComponent();
-            //yourturn =random.Next(2) == 0;
+            yourturn =random.Next(2) == 0;
             gfur.MouseDown += gfur_click;
             gfum.MouseDown += gfur_click;
             gful.MouseDown += gfur_click;
