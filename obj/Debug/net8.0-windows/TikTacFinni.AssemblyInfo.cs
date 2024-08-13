@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TikTacFinni")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cdfbac3f3e28d13673175a213b743ccd4f52c06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+525160e9c0e25cdea5bc36f70d01f8830a33d5fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("TikTacFinni")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TikTacFinni")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
