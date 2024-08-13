@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris\\source\\repos\\TicTacFinni\\TikTacFinni.csproj": {}
+    "C:\\Users\\Windows10Pro\\source\\repos\\TicTacFinni\\TikTacFinni.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris\\source\\repos\\TicTacFinni\\TikTacFinni.csproj": {
+    "C:\\Users\\Windows10Pro\\source\\repos\\TicTacFinni\\TikTacFinni.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\source\\repos\\TicTacFinni\\TikTacFinni.csproj",
+        "projectUniqueName": "C:\\Users\\Windows10Pro\\source\\repos\\TicTacFinni\\TikTacFinni.csproj",
         "projectName": "TikTacFinni",
-        "projectPath": "C:\\Users\\chris\\source\\repos\\TicTacFinni\\TikTacFinni.csproj",
-        "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\source\\repos\\TicTacFinni\\obj\\",
+        "projectPath": "C:\\Users\\Windows10Pro\\source\\repos\\TicTacFinni\\TikTacFinni.csproj",
+        "packagesPath": "C:\\Users\\Windows10Pro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Windows10Pro\\source\\repos\\TicTacFinni\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Windows10Pro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

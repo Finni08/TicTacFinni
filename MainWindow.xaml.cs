@@ -24,15 +24,18 @@ namespace TikTacFinni
 
         private void Singelplayerbtn_Click(object sender, RoutedEventArgs e)
         {
-            wndGame=new wndGame() {singelplayer=true};
+            wndGame = new wndGame(this) { singelplayer = true };
             wndGame.Show();
-
+            Hide();
+            wndGame.btnswapgamemode.Content = "Change to Multiplayer";
         }
 
         private void Multiplayerbtn_Click(object sender, RoutedEventArgs e)
         {
-            wndGame = new wndGame() {singelplayer=false};
+            wndGame = new wndGame(this) { singelplayer = false };
             wndGame.Show();
+            Hide();
+            wndGame.btnswapgamemode.Content = "Change to Singleplayer";
         }
     }
 }

@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TikTacFinni"
         mc:Ignorable="d"
-        Title="wndGame" Height="720" Width="615">
-    <Grid x:Name="GridMain">
-        
-    </Grid>
+        Title="wndGame" Height="720" Width="615" Closing="Window_Closing" ResizeMode="CanMinimize">
+    <Canvas x:Name="GridMain">
+        <Button x:Name="btnswapgamemode" Content="Change to singleplayer" HorizontalAlignment="Left" VerticalAlignment="Center" Height="50" Canvas.Left="439" Canvas.Top="10" Width="140" Click="btnswapgamemode_Click"/>
+    </Canvas>
 </Window>

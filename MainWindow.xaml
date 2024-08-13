@@ -5,10 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TikTacFinni"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Button x:Name="Singelplayerbtn" Content="Singelplayer" HorizontalAlignment="Left" Margin="100,0,0,0" VerticalAlignment="Center" Height="70" Width="200" RenderTransformOrigin="0.527,0.468" Click="Singelplayerbtn_Click"/>
-        <Button x:Name="Multiplayerbtn" Content="Multiplayer" HorizontalAlignment="Left" Margin="500,0,100,0" VerticalAlignment="Center" Height="70" Width="200" Click="Multiplayerbtn_Click"/>
+        Title="MainWindow" Height="450" Width="800" ResizeMode="CanMinimize">
+    <Canvas>
+        <Button x:Name="Singelplayerbtn" Content="Singelplayer" HorizontalAlignment="Left" VerticalAlignment="Top" Height="70" Width="200" Click="Singelplayerbtn_Click" Canvas.Left="100" Canvas.Top="182"/>
+        <Button x:Name="Multiplayerbtn" Content="Multiplayer" HorizontalAlignment="Left" VerticalAlignment="Top" Height="70" Width="200" Click="Multiplayerbtn_Click" Canvas.Left="500" Canvas.Top="182"/>
 
-    </Grid>
+    </Canvas>
 </Window>
